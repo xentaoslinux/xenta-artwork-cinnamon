@@ -1,0 +1,16 @@
+Source: xenta-artwork-cinnamon
+Section: admin
+Priority: optional
+Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/xentaos/paketku
+Vcs-Browser: https://github.com/xentaos/paketku.git
+
+Package: xenta-artwork-cinnamon
+Architecture: all
+Depends: xenta-artwork, xenta-artwork-common, ${shlibs:Depends}, ${misc:Depends}
+Conflicts : mint-artwork-cinnamon
+Replaces : mint-artwork-cinnamon
+Description: Paket Base Artwork Desktop Cinnamon
+ Paket Artwork dan KOnfigurasi Bawaan Xenta OS edisi Cinnamon.

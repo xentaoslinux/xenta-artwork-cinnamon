@@ -1,0 +1,293 @@
+xenta-artwork-cinnamon (5.5.4) arok; urgency=medium
+
+  * Perbaikan Berkas debian/*
+
+ -- Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  Thu, 16 Nov 2017 22:44:06 +0700 
+
+xenta-artwork-cinnamon (5.5-3) arok; urgency=medium
+
+  * Fix Bugs
+
+ -- Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  Fri, 03 Nov 2017 20:36:34 +0700
+
+xenta-artwork-cinnamon (5.5-2) arok; urgency=medium
+
+  * Perubahan Untuk Paket Xenta OS
+
+ -- Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  Fri, 03 Nov 2017 20:36:34 +0700
+
+xenta-artwork-cinnamon (5.5-1) arok; urgency=medium
+
+  * Perubahan Untuk Paket Xenta OS
+
+ -- Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  Fri, 03 Nov 2017 20:03:26 +0700
+
+mint-artwork-cinnamon (5.5) sylvia; urgency=medium
+
+  * Set HiDPI mode to Auto.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 19 Sep 2017 17:33:15 +0100
+
+mint-artwork-cinnamon (5.4) serena; urgency=medium
+
+  * Add a notification sound (disabled by default)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 12 Dec 2016 11:09:15 +0000
+
+mint-artwork-cinnamon (5.3) serena; urgency=medium
+
+  * Removed obsolete show-icon-text key from org.nemo.preferences
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 05 Nov 2016 16:11:48 +0000
+
+mint-artwork-cinnamon (5.2) sarah; urgency=medium
+
+  * Added theme for metacity
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 05 May 2016 10:34:28 +0100
+
+mint-artwork-cinnamon (5.1) sarah; urgency=medium
+
+  * Switch to logind
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 03 May 2016 11:37:25 +0100
+
+mint-artwork-cinnamon (5.0) rafaela; urgency=medium
+
+  * Provide a menu icon
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 30 Oct 2015 11:29:05 +0000
+
+mint-artwork-cinnamon (4.9) rafaela; urgency=medium
+
+  * Added /etc/cinnamon/preload/iconthemes.d/mint.list
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 11 May 2015 10:34:14 +0200
+
+mint-artwork-cinnamon (4.8) betsy; urgency=medium
+
+  * Increased thumbnail limit size to 4GB
+  * Don't show text thumbnails by default
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 18 Feb 2015 14:34:33 +0100
+
+mint-artwork-cinnamon (4.7) betsy; urgency=medium
+
+  * Removed obsolete gnome's menus-have-icons setting
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 03 Feb 2015 14:28:28 +0100
+
+mint-artwork-cinnamon (4.6) betsy; urgency=medium
+
+  * Set scaling factor to 1 (disabled HiDPI by default)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 01 Feb 2015 12:03:28 +0100
+
+mint-artwork-cinnamon (4.5) rebecca; urgency=medium
+
+  * Switched to Noto fonts
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 04 Nov 2014 13:28:57 +0100
+
+mint-artwork-cinnamon (4.4) qiana; urgency=medium
+
+  * Enabled panel-scale-text-icons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 06 May 2014 12:50:27 +0100
+
+mint-artwork-cinnamon (4.3) qiana; urgency=low
+
+  * Enabled logout sound
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 29 Mar 2014 16:37:35 +0000
+
+mint-artwork-cinnamon (4.2) petra; urgency=low
+
+  * Increased nemo thumbnail file size limit to 10MB
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 02 Dec 2013 10:24:08 +0000
+
+mint-artwork-cinnamon (4.1) petra; urgency=low
+
+  * Removed obsolete key menu-icon
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 31 Oct 2013 13:14:41 +0000
+
+mint-artwork-cinnamon (4.0) petra; urgency=low
+
+  * Disabled some of the event sounds
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 29 Oct 2013 16:22:41 +0000
+
+mint-artwork-cinnamon (3.9) petra; urgency=low
+
+  * Ask what to do when pressing power button
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 29 Oct 2013 14:06:51 +0000
+
+mint-artwork-cinnamon (3.8) petra; urgency=low
+
+  * Don't ask for away message by default when locking (was good to temporarily showcase the feature in Mint 15)
+  * Enable workspace view as grid by default
+  * Lock the screen by default on suspend
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 19 Oct 2013 17:01:06 +0100
+
+mint-artwork-cinnamon (3.7) petra; urgency=low
+
+  * Use traditional minimize effect
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 17 Oct 2013 12:04:19 +0100
+
+mint-artwork-cinnamon (3.6) petra; urgency=low
+
+  * Removed obsolete keys
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 17 Oct 2013 11:47:09 +0100
+
+mint-artwork-cinnamon (3.5) petra; urgency=low
+
+  * cinnamon xsettings menus-have-icons true
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 09 Oct 2013 19:42:28 +0100
+
+mint-artwork-cinnamon (3.4) petra; urgency=low
+
+  * Added settings for cinnamon backend
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 03 Oct 2013 10:37:48 +0100
+
+mint-artwork-cinnamon (3.3) petra; urgency=low
+
+  * Added sounds
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 05 Sep 2013 15:16:46 +0100
+
+mint-artwork-cinnamon (3.2) olivia; urgency=low
+
+  * Renamed default theme to Linux Mint to avoid conflicts with original theme
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 30 Apr 2013 17:07:07 +0100
+
+mint-artwork-cinnamon (3.1) olivia; urgency=low
+
+  * Removed all gnomecc adjustments
+  * Show statusbar by default in nemo
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 28 Feb 2013 14:15:23 +0000
+
+mint-artwork-cinnamon (3.0) nadia; urgency=low
+
+  * Added file:// prefix to background uri
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 12 Dec 2012 09:47:04 +0000
+
+mint-artwork-cinnamon (2.9) nadia; urgency=low
+
+  * Removed universal access (will need to integrate cinnamon-settings, depends on overlay-scrollbar right now which is not acceptable)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 06 Nov 2012 16:53:42 +0000
+
+mint-artwork-cinnamon (2.8) nadia; urgency=low
+
+  * Reduced font size to 9px 
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 20 Oct 2012 13:49:29 +0100
+
+mint-artwork-cinnamon (2.7) nadia; urgency=low
+
+  * Changed default theme name from "Nightlife - Graphite" to "Nightlife Graphite"
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 20 Oct 2012 11:46:09 +0100
+
+mint-artwork-cinnamon (2.6) nadia; urgency=low
+
+  * Use Mint-X as default GTK theme
+  * Keyboard now points to cinnamon-settings, not gnome-control-center
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 19 Oct 2012 19:51:23 +0100
+
+mint-artwork-cinnamon (2.5) nadia; urgency=low
+
+  * Adjust power.ui in gnome control center
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 12 Oct 2012 11:24:22 +0100
+
+mint-artwork-cinnamon (2.4) nadia; urgency=low
+
+  * Adjust info.ui in gnome control center
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 12 Oct 2012 11:07:39 +0100
+
+mint-artwork-cinnamon (2.3) nadia; urgency=low
+
+  * Added adjustments to hide unwanted Gnome items in Cinnamon
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 11 Oct 2012 14:49:44 +0100
+
+mint-artwork-cinnamon (2.0) nadia; urgency=low
+
+  * Updated nemo settings
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 08 Oct 2012 13:02:57 +0100
+
+mint-artwork-cinnamon (1.9) maya; urgency=low
+
+  * Removed dep on mint-artwork-gnome
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 11 Sep 2012 16:08:42 +0100
+
+mint-artwork-cinnamon (1.8) maya; urgency=low
+
+  * Use DMZ-White as the default cursor theme
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 18 May 2012 17:24:13 +0100
+
+mint-artwork-cinnamon (1.7) maya; urgency=low
+
+  * Changed default cinnamon theme
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 13 May 2012 23:46:45 +0100
+
+mint-artwork-cinnamon (1.6) maya; urgency=low
+
+  * Defined default titlebar font for metacity
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 12 May 2012 22:07:16 +0100
+
+mint-artwork-cinnamon (1.5) maya; urgency=low
+
+  * Specified default fonts
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 12 May 2012 17:54:46 +0100
+
+mint-artwork-cinnamon (1.4) maya; urgency=low
+
+  * Fixed wrong type in gconf call
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 11 May 2012 14:56:12 +0100
+
+mint-artwork-cinnamon (1.3) maya; urgency=low
+
+  * Set Cinnamon window theme to Mint-X
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 11 May 2012 14:52:34 +0100
+
+mint-artwork-cinnamon (1.2) maya; urgency=low
+
+  * Mint-X icon theme by default (instead of Mint-X-Dark)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 10 May 2012 21:14:12 +0100
+
+mint-artwork-cinnamon (1.1) maya; urgency=low
+
+  * Changed default gsettings config for Gnome 3, Nautilus, Gedit, the WM
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 10 May 2012 18:11:31 +0100
+
+mint-artwork-cinnamon (1.0) maya; urgency=low
+
+  * Initial release
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed,  2 May 2012 12:34:00 +0000
+
